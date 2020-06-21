@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110490357521",
+    "firebase_url": "https://calculo-aedc9.firebaseio.com",
+    "project_id": "calculo-aedc9",
+    "storage_bucket": "calculo-aedc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110490357521:android:ef2698e64e71efb80406b0",
+        "android_client_info": {
+          "package_name": "com.example.calculo183"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110490357521-akcad887sic3ebk4kuaev3umf5k2ftip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRR_JOuNrQqcRdeUIdUHSNztYHih-YmwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110490357521-akcad887sic3ebk4kuaev3umf5k2ftip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
